@@ -4,8 +4,8 @@ end
 
 def my_hash
   my_hash = {
-    :show => "Halt and Catch Fire"
-    :seasons => 4
+    :show => "Halt and Catch Fire",
+    :seasons => 4,
     :main_characters => 4
   }
 end
